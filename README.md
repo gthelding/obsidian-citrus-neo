@@ -4,9 +4,9 @@ The Citrus Neo Theme is an [Obsidian](https://obsidian.md) theme inspired by the
 
 It blends warm citrus yellows and greens with high-contrast typography to create a focused workspace that still feels vibrant.
 
-![](screenshot-dark.png)
+![](/screenshots/screenshot-dark.png)
 
-![](screenshot-light.png)
+![](/screenshots/screenshot-light.png)
 
 ## Highlights
 
