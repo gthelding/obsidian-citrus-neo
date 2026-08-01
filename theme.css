@@ -472,50 +472,50 @@ body.theme-light .callout .callout-title {
 
 body.theme-dark .callout[data-callout="note"],
 body.theme-dark .callout[data-callout="info"] {
-	--callout-color: 136, 230, 210;
+	--callout-color: rgb(136, 230, 210);
 }
 
 body.theme-light .callout[data-callout="note"],
 body.theme-light .callout[data-callout="info"] {
-	--callout-color: 31, 125, 114;
+	--callout-color: rgb(31, 125, 114);
 }
 
 body.theme-dark .callout[data-callout="tip"],
 body.theme-dark .callout[data-callout="success"] {
-	--callout-color: 130, 201, 58;
+	--callout-color: rgb(130, 201, 58);
 }
 
 body.theme-light .callout[data-callout="tip"],
 body.theme-light .callout[data-callout="success"] {
-	--callout-color: 74, 138, 20;
+	--callout-color: rgb(74, 138, 20);
 }
 
 body.theme-dark .callout[data-callout="important"] {
-	--callout-color: 212, 226, 72;
+	--callout-color: rgb(212, 226, 72);
 }
 
 body.theme-light .callout[data-callout="important"] {
-	--callout-color: 111, 120, 32;
+	--callout-color: rgb(111, 120, 32);
 }
 
 body.theme-dark .callout[data-callout="warning"] {
-	--callout-color: 224, 176, 74;
+	--callout-color: rgb(224, 176, 74);
 }
 
 body.theme-light .callout[data-callout="warning"] {
-	--callout-color: 138, 94, 14;
+	--callout-color: rgb(138, 94, 14);
 }
 
 body.theme-dark .callout[data-callout="danger"],
 body.theme-dark .callout[data-callout="error"],
 body.theme-dark .callout[data-callout="fail"] {
-	--callout-color: 224, 124, 74;
+	--callout-color: rgb(224, 124, 74);
 }
 
 body.theme-light .callout[data-callout="danger"],
 body.theme-light .callout[data-callout="error"],
 body.theme-light .callout[data-callout="fail"] {
-	--callout-color: 138, 60, 28;
+	--callout-color: rgb(138, 60, 28);
 }
 
 body.theme-dark input[type="checkbox"],
